@@ -1,0 +1,2 @@
+obj\Debug\net9.0\Protos/Product-availability-serviceGrpc.cs \
+obj\Debug\net9.0\Protos/ProductAvailabilityService.cs: Protos/product-availability-service.proto
